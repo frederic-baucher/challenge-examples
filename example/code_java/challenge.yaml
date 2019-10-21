@@ -1,0 +1,14 @@
+version: 1.0
+name: code_fibo
+label: Fibo challenge
+description: Create your own fibo method
+level: ewok
+type: CODING
+xp:
+  programming: 2
+  java: 2
+coding:
+  templateDirectory: src/main/java/template
+  successDirectory: src/main/java/success
+  target: Fibonacci.java
+  editorMode: java

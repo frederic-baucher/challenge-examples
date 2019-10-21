@@ -1,0 +1,15 @@
+version: 1.0
+name: code_spam_detector
+label: Detect The Spam Messages
+description: Detect The Spam Messages
+level: ewok
+type: CODING
+xp:
+  python: 2
+  programming: 1
+  data_mining: 2
+coding:
+  templateDirectory: src/main/python/template
+  successDirectory: src/main/python/success
+  target: __init__.py
+  editorMode: python
