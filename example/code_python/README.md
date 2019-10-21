@@ -18,9 +18,9 @@ The first one should only run the candidate code, while the second one will veri
 5. Update the docs **briefing**, **hint1**, and **hint2**. You can also provide translation under **fr/** for instance.
 
 
-# Test your challenge with Docker:
+
+# Test your challenge with [Dcli](https://github.com/deadlock-resources/dcli):
 ```bash
-#examples/code_python/ > docker build . -t code_java_fibo
-#examples/code_python/ > docker run code_python_fibo Test
-#examples/code_python/ > docker run code_python_fibo Solve
+#examples/code_python/ > dcli run
+#examples/code_python/ > dcli solve
 ```
