@@ -65,7 +65,7 @@ _To convert the list(O and 1) into a vector, you can use the Numpy library._
 
    ***pairs*** is a list of tuples (message, type) (type can be spam or text)
 
-2 - Code a method that for each word returns his p-value related to the test.
+2 - Code a method that for each word returns his p-value related to the Run.
     A p-value is the probability that the word is NOT over-represented in the spams. The smaller the p-value is,
     the more over-represented the word is within spams compared to non-spam(text).
 
