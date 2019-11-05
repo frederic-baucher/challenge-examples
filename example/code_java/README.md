@@ -3,7 +3,7 @@ This sample contains a full implementation of a small Java challenge.
 
 The sample challenge is about **implementing Fibonacci**.
 
-When the candidate will click on `Run` the `src/main/java/app/Test.java` will be executed.
+When the candidate will click on `Run` the `src/main/java/app/Run.java` will be executed.
 When the candidate will click on `Submit` the `src/main/java/app/Solve.java` will be executed.
 
 The first one should only run the candidate code, while the second one will verify if the candidat has the correct answer, comparing the success result to the template result mostly.

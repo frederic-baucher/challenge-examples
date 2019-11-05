@@ -10,11 +10,13 @@ public class Solve {
         int max = 20;
 
         try {
+            // Simple tests to verify user entry.
             for (long n = min; n < max; n++) {
                 long userValue = Fibonacci.fibonacci(n);
                 long expectedValue = success.Fibonacci.fibonacci(n);
+                Logger.logCurrentTest(userValue, n);
                 if (expectedValue != userValue) {
-                    Logger.logNoMatch(n, expectedValue, userValue);
+                    Logger.logNoMatch(expectedValue);
                     System.exit(1);
                 }
             }
