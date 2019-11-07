@@ -27,7 +27,7 @@ void Logger::log(int user, int n) {
 }
 
 void Logger::log_no_match(int expected) {
-    cout << "Expected: " << expected << endl;
+    cout << "==> Expected: " << expected << endl;
     cerr << "It does not match, not expected result." << endl;
     cerr << "----------------------------------------------------" << endl;
 }
