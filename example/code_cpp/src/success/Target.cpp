@@ -1,4 +1,13 @@
+#include "Target.h"
 
-int fibonacci(int n) {
-    return 0;
+// Executed when you Run your code
+void Target::main() {
+}
+
+int Target::fibonacci(int n) {
+    if (n == 1 || n == 0) {
+        return 1;
+    } else {
+        return success_fibonacci(n - 1) + success_fibonacci(n - 2);
+    }
 }
