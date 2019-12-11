@@ -1,0 +1,17 @@
+version: 1.0
+name: code_score_python
+label: Test scoring in python
+description: Test scoring in python
+level: jarjarbinks
+type: CODING
+xp:
+  python: 1
+  programming: 1
+coding:
+  templateDirectory: src/main/python/template
+  successDirectory: src/main/python/success
+  editorMode: python
+  score:
+    min: 0 # default min score, can be omitted
+    minToValidate: 90
+    max: 100 # default max score, can be omitted
