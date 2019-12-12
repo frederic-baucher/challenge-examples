@@ -1,0 +1,14 @@
+version: 1.0
+name: code_fibo
+label: Fibo challenge
+description: Create your own fibo method
+level: ewok
+type: CODING
+xp:
+  kotlin: 2
+  programming: 2
+coding:
+  templateDirectory: src/main/kotlin/template
+  successDirectory: src/main/kotlin/success
+  target: Fibonacci.kt
+  editorMode: kotlin
