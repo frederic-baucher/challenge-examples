@@ -1,0 +1,14 @@
+version: 1.0
+name: code_fibo
+label: Fibo challenge
+description: Create your own fibo method
+level: ewok
+type: CODING
+xp:
+  programming: 2
+  ocaml: 2
+coding:
+  templateDirectory: src/main/ocaml/template
+  successDirectory: src/main/ocaml/success
+  target: Fibonacci.ml
+  editorMode: ocaml
