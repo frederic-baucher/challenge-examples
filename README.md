@@ -12,3 +12,4 @@ You can find many examples within `example` folder.
 - [Java](./example/code_java)
 - [Python](./example/code_python)
 - [Kotlin](./example/code_kotlin)
+- [OCaml](./example/code_ocaml)
