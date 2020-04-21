@@ -13,4 +13,5 @@ You can find many examples within `example` folder.
 - [Python](./example/code_python)
 - [Kotlin](./example/code_kotlin)
 - [OCaml](./example/code_ocaml)
-- [JavaScript](example/code_javascript_commonjs)
+- [JavaScript (CommonJS)](example/code_javascript_commonjs)
+- [JavaScript (ESModule)](example/code_javascript_esmodule)
