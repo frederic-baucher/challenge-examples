@@ -1,0 +1,14 @@
+version: 1.0
+name: code_fibo
+label: Fibo challenge
+description: Create your own fibo method
+level: ewok
+type: CODING
+xp:
+  javascript: 2
+  programming: 2
+coding:
+  templateDirectory: src/template
+  successDirectory: src/success
+  target: fibonacci.mjs
+  editorMode: javascript
