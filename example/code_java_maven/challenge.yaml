@@ -1,0 +1,14 @@
+version: 1.0
+name: code_calculator
+label: Calculator challenge
+description: Implement calculator operations
+level: ewok
+type: CODING
+xp:
+  java: 1
+  programming: 1
+coding:
+  templateDirectory: src/main/java/template
+  successDirectory: src/main/java/success
+  target: Calculator.java
+  editorMode: java

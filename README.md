@@ -10,6 +10,7 @@ You can find many examples within `example` folder.
 - [C](./example/code_c)
 - [Cpp](./example/code_cpp)
 - [Java](./example/code_java)
+- [Java Maven](./example/code_java_maven)
 - [Python](./example/code_python)
 - [Kotlin](./example/code_kotlin)
 - [OCaml](./example/code_ocaml)
