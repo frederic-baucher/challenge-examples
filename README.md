@@ -16,3 +16,4 @@ You can find many examples within `example` folder.
 - [OCaml](./example/code_ocaml)
 - [JavaScript (CommonJS)](example/code_javascript_commonjs)
 - [JavaScript (ESModule)](example/code_javascript_esmodule)
+- [SQL](example/code_sql)

@@ -1,0 +1,15 @@
+version: 2.31
+name: code_inner_join
+label: "Inner Join"
+description: "Inner Join or how to make a join between tables"
+level: jarjarbinks
+type: CODING
+xp:
+  sql: 1
+  programming : 1
+coding:
+  templateDirectory: template
+  successDirectory: success
+  target: inner_join.sql
+  editorMode: sql
+tags: [postgreSQL, select, inner_join]
