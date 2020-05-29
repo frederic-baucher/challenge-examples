@@ -1,0 +1,10 @@
+name: hack_sql_injection
+label: SQL injection
+description: Remove the cats
+level: ewok
+type: HACKING
+xp:
+  crackme: 1
+hacking:
+  index: ?callback=${CALLBACK}
+  token_path: /usr/src/app/tokens
