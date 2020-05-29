@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cats party !</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="app.js"></script>
+</head>
+
+<body>
+    <div id="restart-spinner">
+        <div class="spinner-border text-primary" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+
+    <div class="jumbotron text-center">
+        <h1>Cats Party !</h1>
+    </div>
+
+    <div class="container-fluid">
+        <div class="card-deck d-flex flex-wrap" id="cats">
+        </div>
+        <div class="emergency">
+            <p><b>Emergency</b> button to restart your challenge, if you broke something, and you need to take a fresh start.
+            The page will be reloaded.</p>
+            <button type="button" class="btn btn-primary" onclick="restart()">Restart</button>
+        </div>
+    </div>
+
+</body>
+</html>
