@@ -18,3 +18,6 @@ You can find many examples within `example` folder.
 - [JavaScript (ESModule)](example/code_javascript_esmodule)
 - [SQL](example/code_sql)
 - [Hack](example/hack)
+- Score
+    - [Java](./example/code_score_java)
+    - [Python](./example/code_score_python)
