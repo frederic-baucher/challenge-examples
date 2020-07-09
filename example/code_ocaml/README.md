@@ -20,7 +20,7 @@ The first one should only run the candidate code, while the second one will veri
 
 # Test your challenge with [Dcli](https://github.com/deadlock-resources/dcli):
 ```bash
-#examples/code_ocaml/ > dcli run
-#examples/code_ocaml/ > dcli solve
+#example/code_ocaml/ > dcli run
+#example/code_ocaml/ > dcli solve
 ```
 

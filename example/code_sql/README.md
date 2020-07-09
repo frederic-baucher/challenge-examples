@@ -21,7 +21,7 @@ The first one should only run the candidate code, while the second one will veri
 
 # Test your challenge with [Dcli](https://github.com/deadlock-resources/dcli):
 ```bash
-#examples/code_sql/ > dcli run
-#examples/code_sql/ > dcli solve
+#example/code_sql/ > dcli run
+#example/code_sql/ > dcli solve
 ```
 

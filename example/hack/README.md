@@ -28,6 +28,6 @@ There is one Docker container per user, means one token per container.
 
 # Test your challenge with [Dcli](https://github.com/deadlock-resources/dcli):
 ```bash
-#examples/hack/ > dcli run
+#example/hack/ > dcli run
 ```
 

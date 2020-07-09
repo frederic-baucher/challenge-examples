@@ -20,7 +20,7 @@ The first one should only run the candidate code, while the second one will veri
 
 # Test your challenge with [Dcli](https://pypi.org/project/deadlock-cli/):
 ```bash
-#examples/code_kotlin/ > dcli run
-#examples/code_kotlin/ > dcli solve
+#example/code_kotlin/ > dcli run
+#example/code_kotlin/ > dcli solve
 ```
 

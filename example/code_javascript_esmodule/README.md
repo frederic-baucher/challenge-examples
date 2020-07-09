@@ -36,7 +36,7 @@ log('hello world');
 
 # Test your challenge with [Dcli](https://github.com/deadlock-resources/dcli):
 ```bash
-#examples/code_javascript_esmodule > dcli run
-#examples/code_javascript_esmodule > dcli solve
+#example/code_javascript_esmodule > dcli run
+#example/code_javascript_esmodule > dcli solve
 ```
 

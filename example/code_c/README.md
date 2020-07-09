@@ -20,7 +20,7 @@ The first one should only run the candidate code, while the second one will veri
 
 # Test your challenge with [Dcli](https://github.com/deadlock-resources/dcli):
 ```bash
-#examples/code_c/ > dcli run
-#examples/code_c/ > dcli solve
+#example/code_c/ > dcli run
+#example/code_c/ > dcli solve
 ```
 
